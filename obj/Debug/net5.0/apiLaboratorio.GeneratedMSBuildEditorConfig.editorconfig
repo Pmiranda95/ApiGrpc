@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = apiLaboratorio
-build_property.ProjectDir = C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\
+build_property.ProjectDir = C:\Users\javie\github\ApiGrpc\

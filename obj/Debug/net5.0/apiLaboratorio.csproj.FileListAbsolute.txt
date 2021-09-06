@@ -1,29 +1,44 @@
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\appsettings.json
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\apiLaboratorio.exe
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\apiLaboratorio.deps.json
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\apiLaboratorio.runtimeconfig.json
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\apiLaboratorio.runtimeconfig.dev.json
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\apiLaboratorio.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\ref\apiLaboratorio.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\apiLaboratorio.pdb
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.csproj.AssemblyReference.cache
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.AssemblyInfoInputs.cache
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.AssemblyInfo.cs
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.csproj.CoreCompileInputs.cache
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\staticwebassets\apiLaboratorio.StaticWebAssets.Manifest.cache
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\staticwebassets\apiLaboratorio.StaticWebAssets.xml
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\scopedcss\bundle\apiLaboratorio.styles.css
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.RazorTargetAssemblyInfo.cache
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.csproj.CopyComplete
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\ref\apiLaboratorio.dll
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.pdb
-C:\Users\maito\Desktop\5to\Sistemas distribuidos\pruebaApi\apiLaboratorio\obj\Debug\net5.0\apiLaboratorio.genruntimeconfig.cache
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.csproj.AssemblyReference.cache
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.AssemblyInfoInputs.cache
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.AssemblyInfo.cs
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\appsettings.json
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\apiLaboratorio.exe
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\apiLaboratorio.deps.json
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\apiLaboratorio.runtimeconfig.json
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\apiLaboratorio.runtimeconfig.dev.json
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\apiLaboratorio.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\ref\apiLaboratorio.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\apiLaboratorio.pdb
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Google.Api.CommonProtos.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\staticwebassets\apiLaboratorio.StaticWebAssets.Manifest.cache
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\staticwebassets\apiLaboratorio.StaticWebAssets.xml
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\scopedcss\bundle\apiLaboratorio.styles.css
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.RazorTargetAssemblyInfo.cache
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.csproj.CopyComplete
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.dll
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\ref\apiLaboratorio.dll
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.pdb
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.genruntimeconfig.cache
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\javie\github\ApiGrpc\obj\Debug\net5.0\apiLaboratorio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\javie\github\ApiGrpc\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
