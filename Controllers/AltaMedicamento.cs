@@ -24,16 +24,6 @@ namespace apiLaboratorio.Controllers
                 var channel = GrpcChannel.ForAddress("http://localhost:50051");
                 var cliente = new LaboratorioFarmaceutico.LaboratorioFarmaceuticoClient(channel);
 
-                // var medicamentoNuevo = new Medicamento
-                // {
-                //     CodigoAlfabetico = "BBB",
-                //     CodigoNumerico = 12345,
-                //     DigitoVerificador = 0,
-                //     Nombre = "Anginovag",
-                //     Droga = "Hidrocortisona",
-                //     TipoMedicamento = 2
-                // };
-
                 var medicamento = new Medicamento
                 {
                     CodigoAlfabetico = codAlfabetico,
