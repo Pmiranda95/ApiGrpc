@@ -9,13 +9,13 @@ using Grpc.Net.Client;
 
 namespace apiLaboratorio.Controllers
 {
-    // PUT: api/BajaTipoMedicamento
+    // DELETE: api/BajaTipoMedicamento
     [ApiController]
     [Route("api/[controller]")]
     public class BajaTipoMedicamento : ControllerBase
     {
-        [HttpPut]
-        public string Put(string tipo)
+        [HttpDelete]
+        public string Delete(string tipo)
         {
             string response="";
             
