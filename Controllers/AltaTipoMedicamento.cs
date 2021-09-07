@@ -10,7 +10,7 @@ namespace apiLaboratorio.Controllers
     public class AltaTipoMedicamento : ControllerBase
     {
         [HttpPost]
-        public string Post(string tipo)
+        public string Post(Request1 request)
         {
             string response="";
             
@@ -21,7 +21,7 @@ namespace apiLaboratorio.Controllers
 
                 var nuevoTipo = new TipoMedicamento
                 {
-                    Tipo = tipo
+                    Tipo = request.tipo
                 };
 
                 response=cliente.AltaTipoMedicamento(nuevoTipo).Message;    
@@ -33,6 +33,10 @@ namespace apiLaboratorio.Controllers
          
             return response;
         }
+    }
+     public class Request1
+    {
+        public string tipo { get; set; } 
     }
 
 }
