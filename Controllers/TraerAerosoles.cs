@@ -1,13 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using Grpc.Core;
 using Grpc.Net.Client;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace apiLaboratorio.Controllers
 {
