@@ -15,7 +15,7 @@ namespace apiLaboratorio.Controllers
     public class AltaMedicamento : ControllerBase
     {
         [HttpPost]
-        public string Post(string codAlfabetico, int codNumerico, int digito, string nombre, string droga, int tipo)
+        public string Post(Request request)
         {
             string response="";
             
@@ -26,12 +26,12 @@ namespace apiLaboratorio.Controllers
 
                 var medicamento = new Medicamento
                 {
-                    CodigoAlfabetico = codAlfabetico,
-                    CodigoNumerico = codNumerico,
-                    DigitoVerificador = digito,
-                    Nombre = nombre,
-                    Droga = droga,
-                    TipoMedicamento = tipo
+                    CodigoAlfabetico = request.codAlfabetico,
+                    CodigoNumerico = request.codNumerico,
+                    DigitoVerificador = 0,
+                    Nombre = request.nombre,
+                    Droga = request.droga,
+                    TipoMedicamento = request.tipo
                 };
  
                 response=cliente.AltaMedicamento(medicamento).Message;    
@@ -45,4 +45,12 @@ namespace apiLaboratorio.Controllers
         }
     }
 
+    public class Request
+    {
+        public string codAlfabetico { get; set; } 
+        public int codNumerico { get; set; } 
+        public string nombre { get; set; } 
+        public string droga { get; set; } 
+        public int tipo { get; set; } 
+    }
 }
