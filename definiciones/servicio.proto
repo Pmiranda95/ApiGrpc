@@ -27,4 +27,5 @@ service LaboratorioFarmaceutico {
     rpc AltaMedicamento (Medicamento) returns (Response);
     rpc TraerAerosoles (Nulo) returns (Response);
     rpc TraerMedicamenosConA (Nulo) returns (Response);
+    rpc TraerTiposMedicamentos (Nulo) returns (Response);
 } 
