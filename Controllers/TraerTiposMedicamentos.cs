@@ -29,7 +29,7 @@ namespace apiLaboratorio.Controllers
                 char[] charsToTrim = { '[', ']' };
                 response=response.Trim(charsToTrim);
                 string id, tipoMedicamento, activo;
-                List<TipoMedicamento> tipos = new List<TipoMedicamento>();
+                List<TipoDeMedicamento> tipos = new List<TipoDeMedicamento>();
 
                 while(response.Length>1){
                     response=response.Remove(0, 1);
@@ -41,12 +41,17 @@ namespace apiLaboratorio.Controllers
                     activo=response.Substring(0, response.IndexOf(")"));
                     response=response.Remove(0, response.IndexOf(",")+2);
 
-                    var objTipoMedicamento = new TipoMedicamento
+                    int intId = Int32.Parse(id);
+                    int intActivo = Int32.Parse(activo);
+
+                    var tipoDeMedicamento= new TipoDeMedicamento
                     {
-                        Tipo = tipoMedicamento
+                        id = intId,
+                        tipo = tipoMedicamento,
+                        activo = intActivo
                     };
 
-                    tipos.Add(objTipoMedicamento);
+                    tipos.Add(tipoDeMedicamento);
                 }
                 response = JsonConvert.SerializeObject(tipos);
             }
@@ -59,5 +64,11 @@ namespace apiLaboratorio.Controllers
         }
 
     }
-
+    
+    public class TipoDeMedicamento
+    {
+        public int id { get; set; } 
+        public string tipo { get; set; } 
+        public int activo { get; set; } 
+    }
 }
